@@ -1,0 +1,42 @@
+[
+  {
+    "isim": "Company 1",
+    "kalori": "Products: Alpha, Beta",
+    "karbonhidrat": "Discount: %15",
+    "protein": "More information: +31 123 45 67",
+    "yag": "Mail: info@company1.com",
+    "gorsel": "https://github.com/daniyalkoksal/discountPublic/blob/main/company-logo.jpg"
+  },
+  {
+    "isim": "Company 2",
+    "kalori": "Products: Gamma, Delta",
+    "karbonhidrat": "Discount: %10",
+    "protein": "More information: +44 987 65 43",
+    "yag": "Mail: contact@company2.org",
+    "gorsel": "https://github.com/daniyalkoksal/discountPublic/blob/main/company-logo.jpg"
+  },
+  {
+    "isim": "Company 3",
+    "kalori": "Products: Orion, Vega",
+    "karbonhidrat": "Discount: %20",
+    "protein": "More information: +1 555 222 3333",
+    "yag": "Mail: support@company3.io",
+    "gorsel": "https://github.com/daniyalkoksal/discountPublic/blob/main/company-logo.jpg"
+  },
+  {
+    "isim": "Company 4",
+    "kalori": "Products: Nimbus, Aero",
+    "karbonhidrat": "Discount: %5",
+    "protein": "More information: +49 888 77 66",
+    "yag": "Mail: hello@company4.net",
+    "gorsel": "https://github.com/daniyalkoksal/discountPublic/blob/main/company-logo.jpg"
+  },
+  {
+    "isim": "Company 5",
+    "kalori": "Products: Zenith, Nova",
+    "karbonhidrat": "Discount: %25",
+    "protein": "More information: +81 909 808 707",
+    "yag": "Mail: sales@company5.com",
+    "gorsel": "https://github.com/daniyalkoksal/discountPublic/blob/main/company-logo.jpg"
+  }
+]
